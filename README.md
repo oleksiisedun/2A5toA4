@@ -33,13 +33,3 @@ The script will interactively prompt you for:
 File paths can be typed manually or dragged and dropped from a file manager. The script handles `~` expansion, quoted paths, and backslash-escaped spaces.
 
 If the output file already exists, you will be prompted to overwrite it or choose a different name.
-
-## Example
-
-```
-Enter path to first A5 PDF:  ~/Documents/page1.pdf
-Enter path to second A5 PDF (or press Enter to reuse first): ~/Documents/page2.pdf
-Enter output file name [output_A4_landscape.pdf]: combined.pdf
-```
-
-Produces `combined.pdf` with both A5 pages placed side by side on one A4 landscape sheet.
