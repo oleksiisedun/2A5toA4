@@ -7,7 +7,7 @@ A bash script that combines two A5 PDFs side by side onto a single A4 landscape 
 Make the script executable before running it for the first time:
 
 ```bash
-chmod +x 2A5toA4.sh
+chmod +x ./2A5toA4.sh
 ```
 
 ## Dependency
