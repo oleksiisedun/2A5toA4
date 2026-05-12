@@ -1,4 +1,4 @@
-# two-a5-to-a4
+# pdf-a5-print
 
 A bash script that combines two A5 PDFs side by side onto a single A4 landscape page.
 
@@ -7,7 +7,7 @@ A bash script that combines two A5 PDFs side by side onto a single A4 landscape 
 Make the script executable before running it for the first time:
 
 ```bash
-chmod +x ./two-a5-to-a4.sh
+chmod +x ./pdf-a5-print.sh
 ```
 
 ## Dependency
@@ -21,7 +21,7 @@ sudo apt install texlive-extra-utils
 ## Usage
 
 ```bash
-./two-a5-to-a4.sh
+./pdf-a5-print.sh
 ```
 
 The script will interactively prompt you for:
